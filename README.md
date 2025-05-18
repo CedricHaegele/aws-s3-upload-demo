@@ -27,19 +27,26 @@ Ce script fait les étapes suivantes :
 
 ## 🔐 Prérequis
 
-- Avoir un compte AWS
-- Avoir installé et configuré AWS CLI (`aws configure`)
-- Avoir créé un bucket S3 (`cedric-s3-demo`)
+- Avoir un compte AWS  
+- Avoir installé et configuré AWS CLI (`aws configure`)  
+- Avoir créé un bucket S3 (`cedric-s3-demo`)  
 - Avoir installé la bibliothèque Boto3 :
-
 ```bash
 pip install boto3
+```
 
-▶️ Lancement
+---
+
+## ▶️ Lancement
+
+```bash
 python upload_to_s3.py
+```
 
-✍️ Auteur
+---
+
+## ✍️ Auteur
+
 **Cédric Haegele**  
 🔗 [LinkedIn](https://www.linkedin.com/in/cedric-haegele)  
 📂 [GitHub](https://github.com/CedricHaegele)
-
