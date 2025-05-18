@@ -39,6 +39,7 @@ pip install boto3
 python upload_to_s3.py
 
 ✍️ Auteur
-Cédric Haegele
-🔗 LinkedIn
-📂 GitHub
+**Cédric Haegele**  
+🔗 [LinkedIn](https://www.linkedin.com/in/cedric-haegele)  
+📂 [GitHub](https://github.com/CedricHaegele)
+
